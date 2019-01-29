@@ -32,3 +32,11 @@ for index in range(len(y)):
 #         print '\t\t{:02}'.format(fi*fj),
 
         # row_out = "item #{} is {:15.2f}".format(index, various_nums[index])
+print '\n'
+for i in range(1, 10):
+    print "i =", i, ":",  # Note the comma at the end
+
+    for j in range(1, 10):
+        print "{:2d}".format(i * j),  # Note the comma at the end
+
+    print
