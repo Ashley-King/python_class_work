@@ -49,7 +49,12 @@
 
 # row_out = "item #{} is {:15.2f}".format(index, various_nums[index])
 
-# print statement to print headings
+
+# instantiate constants to hold array of numbers for headings
+# loop through and assign headings
+
+# print tab and loop statement to print headings
+# print statement to go to next line
 # outer loop process one complete horiz row in each pass
 # separate print statement before inner loop to print row label on left
 # inner loop process individual components of single row & format/output
@@ -69,7 +74,7 @@ print()
 for h in x:
     print(h, end=' ')
     for v in y:
-        print('\t {:0.2f}'.format(v*h), end=" ")
+        print('\t{0:.2f}'.format(v*h), end=" ")
     print()
 
 
