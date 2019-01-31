@@ -1,5 +1,5 @@
 '''
-Algorithm:
+Part 1 Algorithm:
 
 * create a range of years from 1897 to 2012
 * for each year in the range
@@ -39,4 +39,35 @@ for year in year_range: #beginning year loop
         for item in new_list:
             new_string += " " + str(item) + " "
         print(str(year) + " - duplicated number(s):" + new_string)
+
+
+'''
+Part 2 Algorithm:
+    1. instantiate constants to hold array of numbers for headings
+    loop through and assign headings
+    print tab and loop statement to print headings
+    print statement to go to next line
+    outer loop process one complete horiz row in each pass
+    separate print statement before inner loop to print row label on left
+    inner loop process individual components of single row & format/output
+'''
+
+
+
+horiz_row = []
+vert_row = []
+
+for num in range(5,  60,  10) :
+     new_num = num / 10.0
+     horiz_row.append(new_num)
+     vert_row.append(new_num)
+print('', end=' ')
+for h in horiz_row:
+    print("\t{:.2f}".format(h), end = ' ')
+print()
+for h in horiz_row:
+    print('{:.2f}'.format(h), end=' ')
+    for v in vert_row:
+        print('  {:5.2f}'.format(v*h), end=' ')
+    print()
 

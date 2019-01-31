@@ -67,14 +67,14 @@ for i in range(5,  60,  10) :
      fi = i / 10.0
      x.append(fi)
      y.append(fi)
-print('\t   ', end=' ')
+print('', end=' ')
 for h in x:
-    print("\t" + str(h), end = " ")
+    print("\t{:.2f}".format(h), end = ' ')
 print()
 for h in x:
-    print(h, end=' ')
+    print('{:.2f}'.format(h), end=' ')
     for v in y:
-        print('\t{0:.2f}'.format(v*h), end=" ")
+        print('  {:5.2f}'.format(v*h), end=' ')
     print()
 
 
