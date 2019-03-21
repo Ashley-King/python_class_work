@@ -1,0 +1,123 @@
+Please place a bet between 0 and 50 dollars, 0 to quit:  0
+Please place a bet between 0 and 50 dollars, 0 to quit:  51
+Please place a bet between 0 and 50 dollars, 0 to quit:  100
+Please place a bet between 0 and 50 dollars, 0 to quit:  -2
+Please place a bet between 0 and 50 dollars, 0 to quit:  string
+Please place a bet between 0 and 50 dollars, 0 to quit:  1
+BAR BAR BAR
+You won $50
+Please place a bet between 0 and 50 dollars, 0 to quit:  2
+BAR BAR BAR
+You won $100
+Please place a bet between 0 and 50 dollars, 0 to quit:  3
+BAR 7 CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  4
+BAR CHERRIES 7
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  5
+7 CHERRIES CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  6
+CHERRIES BAR SPACE
+You won $30
+Please place a bet between 0 and 50 dollars, 0 to quit:  7
+CHERRIES CHERRIES CHERRIES
+You won $210
+Please place a bet between 0 and 50 dollars, 0 to quit:  8
+SPACE 7 SPACE
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  9
+BAR BAR CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  10
+CHERRIES BAR CHERRIES
+You won $50
+Please place a bet between 0 and 50 dollars, 0 to quit:  11
+7 BAR CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  12
+CHERRIES 7 CHERRIES
+You won $60
+Please place a bet between 0 and 50 dollars, 0 to quit:  13
+SPACE BAR 7
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  14
+BAR BAR SPACE
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  15
+7 BAR BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  16
+BAR CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  17
+7 7 BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  18
+7 7 BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  19
+CHERRIES CHERRIES BAR
+You won $285
+Please place a bet between 0 and 50 dollars, 0 to quit:  20
+BAR BAR 7
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  21
+BAR BAR BAR
+You won $1050
+Please place a bet between 0 and 50 dollars, 0 to quit:  22
+BAR BAR CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  23
+CHERRIES CHERRIES CHERRIES
+You won $690
+Please place a bet between 0 and 50 dollars, 0 to quit:  24
+BAR CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  25
+7 CHERRIES 7
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  26
+CHERRIES 7 BAR
+You won $130
+Please place a bet between 0 and 50 dollars, 0 to quit:  27
+BAR CHERRIES CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  28
+7 CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  29
+SPACE SPACE BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  30
+7 CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  31
+BAR CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  32
+BAR CHERRIES CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  33
+7 CHERRIES SPACE
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  34
+CHERRIES CHERRIES CHERRIES
+You won $1020
+Please place a bet between 0 and 50 dollars, 0 to quit:  35
+7 BAR CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  36
+BAR CHERRIES CHERRIES
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  37
+7 CHERRIES 7
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  38
+BAR CHERRIES BAR
+Sorry, you lose.
+Please place a bet between 0 and 50 dollars, 0 to quit:  39
+CHERRIES CHERRIES CHERRIES
+You won $1170
+GAME OVER!!
